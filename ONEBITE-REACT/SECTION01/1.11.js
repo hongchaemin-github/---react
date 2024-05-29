@@ -17,8 +17,7 @@ console.log(area2);
 
 getArea(120, 200);
 
-// 호이스팅
-// -> 끌어올리다 라는 뜻
+// 호이스팅 -> 끌어올리다
 function getArea(width, height) {
     function another() {
         // 중첩 함수

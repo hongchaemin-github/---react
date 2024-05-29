@@ -22,6 +22,7 @@ let age = person["age2"];
 
 let property = "hobby";
 let hobby = person[property];
+// console.log(hobby);
 
 // 3.2 새로운 프로퍼티를 추가하는 방법
 person.job = "fe developer";
